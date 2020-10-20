@@ -15,7 +15,6 @@ session_requests = requests.session()
 max_allowed_attempts = 10
 
 url = "https://csprd.mcmaster.ca/psc/prcsprd/EMPLOYEE/SA/c/SA_LEARNER_SERVICES.SSR_SSENRL_GRADE.GBL"
-#webhookUrl = "https://discordapp.com/api/webhooks/701474506891591790/vfnUdqZoVXCcFBHR-OBIXlOu7arrx1UrFaETfHg-vahOlXvUimJNBc_810bEblB2rwN3"
 
 
 #If you would like to skip certain prompts, just fill these out
